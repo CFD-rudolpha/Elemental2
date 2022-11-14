@@ -1,2 +1,4 @@
-# Elemental2
-For CS 469 PE08 - Elemental Version 2.0
+# Elemental
+CS 469 PE7
+
+Here is the second person's commit.
